@@ -6,9 +6,9 @@ MOBILE STORE application is a Maven Project based on the Model-View-Controller (
                    Database: MySql
 
 FrontEnd Description:
-                  Headers:  For All ( Home, All Products, Grocery List, About us)
-                            For User/Customer ( Home, All Products, Grocery List, About us, Cart, My Orders)
-                            For Admin ( Home, All Products, Grocery List, About us, Add Products, Product Details, All Orders, All Users)
+                  Headers:  For All ( Home, All Products, Mobile List, About us)
+                            For User/Customer ( Home, All Products, Mobile List, About us, Cart, My Orders)
+                            For Admin ( Home, All Products, Mobile List, About us, Add Products, Product Details, All Orders, All Users)
 
 Backend Description: 
                   Modules:  Role, User, Admin, Product, Order, Cart, ImageModel, TransactionDetails
